@@ -23,6 +23,8 @@ function initialize() {
 
 function addClick() {
     let clickInc = getClickIncrease()
+
+    console.log("yo")
 };
 
 function getClickIncrease() {
