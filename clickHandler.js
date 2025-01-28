@@ -18,7 +18,7 @@ function initialize() {
         Number(rebirths)
     };
 
-    document.getElementById("click").onclick = addClick()
+    document.getElementById("click").onclick = addClick;
 };
 
 function addClick() {
